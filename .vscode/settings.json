@@ -5,6 +5,22 @@
         "io.h": "c",
         "corecrt_io.h": "c",
         "stdio.h": "c",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "signal.h": "c",
+        "process.h": "c",
+        "threadpoolapiset.h": "c",
+        "windows.h": "c",
+        "jobapi2.h": "c",
+        "utillib.h": "c",
+        "webhost.h": "c",
+        "websocket.h": "c",
+        "processthreadsapi.h": "c",
+        "winapifamily.h": "c",
+        "apiset.h": "c",
+        "apisetcconv.h": "c",
+        "minwindef.h": "c",
+        "winpackagefamily.h": "c",
+        "minwinbase.h": "c",
+        "direct.h": "c"
     }
 }
