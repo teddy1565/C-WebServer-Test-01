@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "winsock2.h": "c",
+        "io.h": "c",
+        "corecrt_io.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c"
+    }
+}
